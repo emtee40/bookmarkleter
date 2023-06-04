@@ -12,6 +12,8 @@ Create bookmarklets in your browser with a simple copy and paste.
 
 **https://chriszarate.github.io/bookmarkleter/**
 
+**https://alanhogan.github.io/bookmarkleter/**  <---a variation
+
 ## NPM module
 
 ```

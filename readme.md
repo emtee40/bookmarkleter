@@ -1,6 +1,5 @@
 # Bookmarkleter
 
-[![Build status][build-status]][travis-ci]
 [![Test coverage][test-coverage]][codecov]
 [![NPM version][npm-version]][fury-io]
 
@@ -52,8 +51,6 @@ This is free software. It is released to the public domain without warranty.
 Thanks to [@jpillora][jpillora] and [@alanhogan][alanhogan] for updates and contributions.
 
 
-[build-status]: https://secure.travis-ci.org/chriszarate/bookmarkleter.svg?branch=master
-[travis-ci]: http://travis-ci.org/chriszarate/bookmarkleter
 [test-coverage]: https://codecov.io/gh/chriszarate/bookmarkleter/branch/master/graph/badge.svg
 [codecov]: https://codecov.io/gh/chriszarate/bookmarkleter
 [npm-version]: https://badge.fury.io/js/bookmarkleter.svg
